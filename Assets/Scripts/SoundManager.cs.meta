@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b3d19b7c6b7c024fb0a74483ba76390
+timeCreated: 1477410147
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - focusPieceClip: {fileID: 8300000, guid: 62162d5d9ae57854b992a2002d239333, type: 3}
+  - unfocusPieceClip: {fileID: 8300000, guid: 62162d5d9ae57854b992a2002d239333, type: 3}
+  - splitClip: {fileID: 8300000, guid: 37827af8175e5e7449c9ea56faca9c56, type: 3}
+  - unsplitClip: {fileID: 8300000, guid: 37827af8175e5e7449c9ea56faca9c56, type: 3}
+  - startnowClip: {fileID: 8300000, guid: 2b50c0f511f3fd244bebfb66c7f8e3ca, type: 3}
+  - showmeClip: {fileID: 8300000, guid: b13166da54d656d428eabda348106d2d, type: 3}
+  - airtapClip: {fileID: 8300000, guid: 7cf848055851a584888717eaee352429, type: 3}
+  - oneClip: {fileID: 8300000, guid: bbc9febca70e1fa4f89bc213963637d1, type: 3}
+  - gobackClip: {fileID: 8300000, guid: f55853f8a1d815b439d034534e37e6a3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
